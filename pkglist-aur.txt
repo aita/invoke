@@ -1,0 +1,12 @@
+1password
+dropbox
+fcitx-mozc-ut
+gitkraken
+google-chrome
+hashlink
+joplin-desktop-bin
+mozc-ut-united
+slack-desktop
+spotify
+visual-studio-code-bin
+zeal
